@@ -23,8 +23,6 @@ namespace App.ShaligramConsultancy
                 "~/content/css/responsive.min.css"
                 ));
                 
-            bundles.Add(new ScriptBundle("~/js/jquery").Include("~/scripts/vendor/jquery-{version}.js"));
-
             //bundles.Add(new ScriptBundle("~/js/app").Include(
             //      "~/scripts/js/jquery.min.js",
             //    "~/scripts/vendor/angular-ui-router.js",
@@ -37,6 +35,36 @@ namespace App.ShaligramConsultancy
             //    "~/scripts/js/Priceformscript.js",
             //       "~/scripts/js/sticky-kit.min.js"
             //       ));
+
+
+            bundles.Add(new ScriptBundle("~/js/jquery").Include(
+                         "~/Scripts/js/jquery.min.js"
+                         , "~/Scripts/js/Priceformscript.js"
+                       ));
+
+            bundles.Add(new ScriptBundle("~/js/bootstrapBundle").Include(
+                "~/Scripts/js/bootstrap.min.js",
+                "~/Scripts/vendor/angular.js"
+                ));
+
+            bundles.Add(new ScriptBundle("~/js/routerBundle").Include(
+                "~/Scripts/vendor/angular-ui-router.js",
+                "~/Scripts/toastr.js"
+                ));
+
+            bundles.Add(new ScriptBundle("~/js/app").Include(
+                "~/Scripts/app.js",
+                "~/Scripts/js/sticky-kit.min.js"
+                ));
+
+            bundles.Add(new ScriptBundle("~/js/angularModule").Include(
+                "~/Scripts/controllers.js",
+                "~/Scripts/filters.js",
+                "~/Scripts/services.js",
+                "~/Scripts/directives.js"
+                ));
+
+
         }
     }
 }

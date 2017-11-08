@@ -1031,7 +1031,9 @@ footer {
     float: left;
     width: 100%;
     background: #225da9;
-    padding: 50px 0 40px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    /*padding: 50px 0 40px;*/
     position: relative;
 }
 
@@ -1063,7 +1065,7 @@ footer {
 .page-banner ul {
     float: left;
     width: 100%;
-    padding: 40px 0 0 45px;
+    padding: 20px 0 0 45px;
 }
 
     .page-banner ul li {
