@@ -887,7 +887,7 @@ angular.mock.dump = function(object) {
  * development please see {@link ngMockE2E.$httpBackend e2e $httpBackend mock}.
  *
  * During unit testing, we want our unit tests to run quickly and have no external dependencies so
- * we don’t want to send {@link https://developer.mozilla.org/en/xmlhttprequest XHR} or
+ * we don"t want to send {@link https://developer.mozilla.org/en/xmlhttprequest XHR} or
  * {@link http://en.wikipedia.org/wiki/JSONP JSONP} requests to a real server. All we really need is
  * to verify whether a certain request has been sent or not, or alternatively just let the
  * application make requests, respond with pre-trained responses and assert that the end result is
@@ -1043,7 +1043,7 @@ angular.mock.dump = function(object) {
          var controller = createController();
          $httpBackend.flush();
 
-         // now you don’t care about the authentication, but
+         // now you don"t care about the authentication, but
          // the controller will still send the request and
          // $httpBackend will respond without you having to
          // specify the expectation and response for this request

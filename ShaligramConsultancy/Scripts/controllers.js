@@ -45,7 +45,6 @@ angular.module('app.controllers', [])
     .controller('InquiryCtrl', ['$scope', '$location', '$window', function ($scope, $location, $window, configurationService) {
 
         $scope.submitInquiry = function (Name, Email, Phone) {
-            alert(Name + Email + Phone);
         }
         $scope.$on('$viewContentLoaded', function () {
             $window.ga('send', 'pageview', { 'page': $location.path(), 'title': $scope.$root.title });
