@@ -709,193 +709,193 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/08/2017 12:29:22</publishTime>
     </File>
     <File Include="SC HtmlFiles/about-us.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/add-designated-partner.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/add-director.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/change-company-address-out-state.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/change-company-address.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/change-llp-agreement.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/close-llp.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/close-pvtltd-company.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/company-name-change.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/contact-us.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/copyright-registration.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/design-registration.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/digital-signature.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/esi-registration.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/esi-return.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/foreign-subsidiary-compliance.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/founders-agreement.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/fssai-registration.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/gst-filing.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/gst-migration.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/gst-registration-for-foreigners.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/gst-registration.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/import-export-code.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/income-tax-filing.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/index.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/indian-subsidiary-for-nri.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/legal-notice.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/llp-compliance.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/llp.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/logo-designing.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/msme-registration.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/nidhi-company.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/non-disclosure-agreement.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/one-person-company.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/partnership-compliance.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/partnership-llp.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/partnership.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/patent-registration.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/private-limited-company.html">
-      <publishTime>11/10/2017 17:45:54</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/producer-company.html">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/professional-tax.html">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/proprietorship-compliance.html">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/proprietorship.html">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/provisional-patent.html">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/public-limited-company.html">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/pvtltd-company-compliance.html">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/pvtltd-opc.html">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/pvtltd-public-ltd-company.html">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/remove-designated-partner.html">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/remove-director.html">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/section-eight-company.html">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/share-purchase-agreement.html">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/shareholders-agreement.html">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/sole-proprietorship-pvt-ltd.html">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/tan-registration.html">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/tds-return.html">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/temporary-gst-registration.html">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/term-sheet.html">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/trademark-objection.html">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/trademark-opposition.html">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/trademark-rectification.html">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/trademark-registration.html">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="SC HtmlFiles/trademark-renewal.html">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Scripts/.jshintrc">
       <publishTime>11/08/2017 12:29:22</publishTime>
@@ -1804,220 +1804,220 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/08/2017 12:29:22</publishTime>
     </File>
     <File Include="Views/404.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/About.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/Index.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/Jasmine/SpecRunner.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/Login.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/about-us.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/add-designated-partner.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/add-director.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/change-company-address-out-state.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/change-company-address.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/change-llp-agreement.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/close-llp.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/close-pvtltd-company.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/CommonInformation.html">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/company-name-change.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/contact-us.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/copyright-registration.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/design-registration.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/digital-signature.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/esi-registration.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/esi-return.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/foreign-subsidiary-compliance.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/founders-agreement.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/fssai-registration.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/gst-filing.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/gst-migration.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/gst-registration-for-foreigners.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/gst-registration.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/import-export-code.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/income-tax-filing.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/indian-subsidiary-for-nri.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/legal-notice.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/llp-compliance.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/llp.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/logo-designing.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/msme-registration.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/nidhi-company.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/non-disclosure-agreement.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/one-person-company.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/partnership-compliance.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/partnership-llp.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/partnership.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/patent-registration.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/private-limited-company.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/producer-company.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/professional-tax.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/proprietorship-compliance.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/proprietorship.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/provisional-patent.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/public-limited-company.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/pvtltd-company-compliance.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/pvtltd-opc.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/pvtltd-public-ltd-company.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/remove-designated-partner.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/remove-director.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/SCIndex.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/SCLayout.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/section-eight-company.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/share-purchase-agreement.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/shareholders-agreement.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/sole-proprietorship-pvt-ltd.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/tan-registration.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/tds-return.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/temporary-gst-registration.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/term-sheet.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/trademark-objection.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/trademark-opposition.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/trademark-rectification.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/trademark-registration.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/SCPages/trademark-renewal.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/_Layout.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Views/_PageStart.cshtml">
-      <publishTime>11/10/2017 17:45:55</publishTime>
+      <publishTime>11/24/2017 17:36:19</publishTime>
     </File>
     <File Include="Web.config">
       <publishTime>11/10/2017 16:53:28</publishTime>

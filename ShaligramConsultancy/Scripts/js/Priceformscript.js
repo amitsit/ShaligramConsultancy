@@ -8,12 +8,7 @@ $(document).ready(function () {
         else sticky.removeClass('navbar-fixed-top');
     });
 
-    if ($(window).width() < 767) {
-        $("#navbar .nav li").click(function () {
-            $(this).children(".subMenu").slideToggle();
-            //$("#navbar .nav li .fa").toggleClass("fa-angle-down fa-angle-up");
-        });
-    }
+    
 
     $(".navbar-toggle").click(function () {
         $(this).toggleClass("open");
@@ -49,12 +44,12 @@ $(document).ready(function () {
         var $this = this,
             $window = $(windw),
             $bumper = $(elem)
-            if ($bumper.length) {
-                bumperPos = $bumper.offset().top,
-                    thisHeight = $this.outerHeight();
+        if ($bumper.length) {
+            bumperPos = $bumper.offset().top,
+                thisHeight = $this.outerHeight();
 
-            }
-            setPosition = function () {
+        }
+        setPosition = function () {
             if ($window.scrollTop() > (bumperPos - thisHeight)) {
                 $this.css({
                     position: 'absolute',
@@ -66,7 +61,7 @@ $(document).ready(function () {
                     top: 0
                 });
             }
-            };
+        };
         $window.resize(function () {
             bumperPos = pos.offset().top;
             thisHeight = $this.outerHeight();
@@ -76,4 +71,23 @@ $(document).ready(function () {
         setPosition();
     };
     $('#one').followTo('#two');
+
+    //$("#navbar .nav li").click(function () {
+    //    $(this).children(".subMenu").slideToggle();
+    //    $("#navbar .nav li .fa").toggleClass("fa-angle-down fa-angle-up");
+    //});
+
+    if ($(window).width() < 767) {
+        $("#navbar .nav li").click(function () {
+            if ($(this).children(".subMenu").css('display') != 'block') {
+                $(this).children(".subMenu").slideUp();
+                $("#navbar .nav li .fa").removeClass("fa-angle-down");
+                $("#navbar .nav li .fa").addClass("fa-angle-up");
+            } else {
+                $(this).children(".subMenu").slideDown();
+                $("#navbar .nav li .fa").addClass("fa-angle-down");
+                $("#navbar .nav li .fa").removeClass("fa-angle-up");
+            }
+        });
+    }
 });
